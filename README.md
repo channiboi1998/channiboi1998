@@ -1,70 +1,29 @@
-# Getting Started with Create React App
+# Christian Eclevia Verzosa
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Website: https://channiboi1998.github.io/websiteportfolio
 
-## Available Scripts
+Programming Stuffs: https://youtube.com/playlist?list=PLGS5LtGg5otoStD2wn5rB-cXtFuNfBNII
 
-In the project directory, you can run:
+I am a seasoned CMS Developer, making the switch to Frontend & eventually Full Stack Web Development. I enjoy building digital and creative products from start to finish. Focusing on simple and intuitive experiences that constantly grow and improve based on user metrics. Below is a list of skills I am well versed of:
 
-### `npm start`
+JavaScript ES5 ES6,   TypeScript,   NodeJS,   Express,   EJS,   React, Redux, @reduxjs/toolkit, RTK Query, Angular,   Socket.io,   jQuery,   Ajax,   Axios,   Docker,   API,   Postman,   MySQL Workbench,   Jenkins,   Mocha,   Chai,   Git,   Github,   PHP,   Codeigniter,   ORM,   Material,   WordPress,   Magento,   Shopify,   Html,   Twig,   CSS,   LESS,   Bootstrap,  Semantic UI.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Personal Projects and Stuffs
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. Channiboi MVC Framework (NodeJS, Express, EJS, Bootstrap, JS, jQuery, Ajax, MySQL)	
+- A framework I created during my village88 training - JS Track. Using NodeJS & Express as my main tool in creating this custom framework.
+[https://github.com/channiboi1998/my-custom-mvc](https://github.com/channiboi1998/my-custom-mvc)
 
-### `npm test`
+ 2. E-Commerce Web App (CodeIgniter, PHP, Bootstrap, Stripe Payment, JS, jQuery, MySQL)
+ - My Capstone Entry for the Village88 training - PHP Track. Using CodeIgniter, A PHP Framework in creating this simple e-commerce web application from scratch.
+[https://youtu.be/NjYwMma_8tQ](https://youtu.be/NjYwMma_8tQ)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  
 
-### `npm run build`
+3. Flappy bird Multiplayer Game (NodeJS, Express, Socket.io, JS, jQuery, Bootstrap)
+- My Multiplayer Game entry on Village88 training - JS Track. A simple flappy bird game, making use of Websocket technology for the multiplayer part, Socket Rooms & NodeJS.
+[https://youtu.be/qtFHB1fFJKw](https://youtu.be/qtFHB1fFJKw)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ 4. Digital Logic HK Website (WordPress CMS, Oxygen, jQuery, JS, CPT, PHP, Plugin Development)
+- Our company website specializes in creating digital products. Converted intricate design with complex animations into a clickable prototype/website.
+[https://digital-logic.hk](https://digital-logic.hk/)
